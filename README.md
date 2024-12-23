@@ -18,32 +18,42 @@ For project com_net HUST
 
 
 :owl::owl::owl::owl::owl::owl::owl::owl::owl::owl::owl::owl::owl::owl::owl::owl::owl::owl:
-## Step by Step 
-### 1. Install tools
-* Install Python Version > 3.11
-* Required Library: tkinter, os
-* Supported Tool: Figma
+# Step-by-Step Guide
 
+## 1. Install Tools
+- **Install Python**: Version > 3.11  
+- **Required Libraries**: `tkinter`, `os`  
+- **Supported Tool**: Figma  
 
+## 2. Run the Code
 
-### 2. Run code
-#### Model 1
-:point_right: **Step 1**: Turn 2 windows of terminal
+### Model 1
+1. **Open Two Terminal Windows**  
+2. **Run the Server and Client**:  
+   - Execute the following commands in the terminals, respectively:  
+     ```bash
+     python server.py
+     python client.py
+     ```  
+3. **Choose a File**: Select a file to transmit and observe the results.
 
-:point_right: **Step 2**: run server and client by command: "python server.py", "python client.py" respectively.
+### Model 2
+1. **Open Two Terminal Windows**  
+2. **Run the Main User Interface**:  
+   - Execute the following command:  
+     ```bash
+     python main_gui.py
+     ```  
+3. **Start Server and Client GUIs**:  
+   - Click the "gnodeb" icon to launch the server GUI.  
+   - Click the "UE" icon to launch the client GUI.  
+4. **Enjoy**: Explore the features! (No further spoilers, hehe!)
 
-:point_right: **Step 3**: Choose file to transmit and watch the result
+---
 
-#### Model 2
-:point_right: **Step 1**: Turn 2 windows of terminal
-
-:point_right: **Step 2**: Run main user interface by command: "python main_gui.py"
-
-:point_right: **Step 3**: Click icon "gnodeb" to put up server gui, click icon ue to put up client gui
-:point_right: **Step 4**: Enjoy, I'm not going to tell more, hihi=))
-
-## Contact
+## Contact  
 :boom: [Le Van Minh](https://github.com/VeronicaMagnus1909) :boom:
+
 
 
 
