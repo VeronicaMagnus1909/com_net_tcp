@@ -1,6 +1,5 @@
 🖥️🖥️🖥️🖥️🖥️🖥️🖥️🖥️🖥️🖥️🖥️🖥️🖥️🖥️🖥️🖥️🖥️🖥️🖥️🖥️🖥️🖥️🖥️🖥️🖥️🖥️🖥️🖥️🖥️🖥️🖥️
-# Computer Networking
-## Server Client transmission file project
+# Computer Networking: Socket programming for server-client transmission file project
 #### Keywords: computer network, socket, server, client, file transmission, 5G network, tkinker, figma
 📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱📱
 
@@ -21,29 +20,27 @@ For project com_net HUST
 :owl::owl::owl::owl::owl::owl::owl::owl::owl::owl::owl::owl::owl::owl::owl::owl::owl::owl:
 ## Step by Step 
 ### 1. Install tools
-* install Ubuntu
-* Install NS-2
-* Install nam
-* Install Python (Matplotlib and OS library)
-
-```commandline
+* Install Python Version > 3.11
+* Required Library: tkinter, os
+* Supported Tool: Figma
 
 
-sudo apt update
-sudo apt upgrade -y
-sudo apt install build-essential autoconf automake libxmu-dev -y
-wget http://www.isi.edu/nsnam/dist/ns-allinone-2.35.tar.gz
-./install
-ns
-
-```
 
 ### 2. Run code
-:point_right: **Step 1**: Model1_wired_com
+#### Model 1
+:point_right: **Step 1**: Turn 2 windows of terminal
 
-:point_right: **Step 2**: Model2_satellite_com
+:point_right: **Step 2**: run server and client by command: "python server.py", "python client.py" respectively.
 
-:point_right: **Step 3**: Plot images
+:point_right: **Step 3**: Choose file to transmit and watch the result
+
+#### Model 2
+:point_right: **Step 1**: Turn 2 windows of terminal
+
+:point_right: **Step 2**: Run main user interface by command: "python main_gui.py"
+
+:point_right: **Step 3**: Click icon "gnodeb" to put up server gui, click icon ue to put up client gui
+:point_right: **Step 4**: Enjoy, I'm not going to tell more, hihi=))
 
 ## Contact
 :boom: [Le Van Minh](https://github.com/VeronicaMagnus1909) :boom:
